@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>For now, this store takes advantage of TrollStore to sign apps, meaning iOS 14 and higher is required for this app to work</string>
+		</dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>FullScreen</key>
+				<true />
+				<key>Icon</key>
+				<data>AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAPz4AAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERAAAREREREREAABEREREREQAAIRESERERAREhERIREREBECEREhERERABIRESEREREREhERISEiIRESEREhISEhERIiIiEhISEREhERISEhISIiEREhISEhESIRESEhISEiIhERIREhISESEREhISIhIiIRESEREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</data>
+				<key>Label</key>
+				<string>H1OS Beta</string>
+				<key>PayloadDisplayName</key>
+				<string>Web Clip #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webClip.managed.0e244317-10b9-4149-9336-ff72b3121833</string>
+				<key>PayloadType</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadUUID</key>
+				<string>53b513ae-cfd6-49eb-8d74-b61d29999b82</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>URL</key>
+				<string>https://colecemore.github.io/jailbreak.html</string>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>You must have trollstore active for this to work! Meaning if you got trollstore via the CT bug then you can use this version</string>
+		<key>PayloadDisplayName</key>
+		<string>HIOS Store Non-Jailbreak</string>
+		<key>PayloadIdentifier</key>
+		<string>GAMING-PC.556a1ea2-fd9b-4450-8a38-0a7267f7ff2c</string>
+		<key>PayloadOrganization</key>
+		<string>com.colecemore.h1OS.njb</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>e077ba35-cc24-4aa4-af42-07b49d4a89a7</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
